@@ -9,3 +9,38 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
+
+tr:nth-child(2) 
+{ background-color: rgb(255, 192, 241);
+  
+}
+tr:nth-child(3) 
+{ background-color: plum;
+  
+}
+tr:nth-child(4) 
+{ background-color: rgb(255, 192, 241);
+  
+}
+tr:nth-child(5) 
+{ background-color: plum;
+  
+}
+tr:nth-child(6) 
+{ background-color: rgb(255, 192, 241);
+  
+}
+tr:nth-child(7) 
+{ background-color: plum;
+  
+}
+tr:nth-child(8) 
+{ background-color: rgb(255, 192, 241);
+  
+}
+tr:nth-child(9) 
+{ background-color: plum;
+  
+}
+table { background-image:
+url(https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fleopardskin.jpg?1527763317245); }
